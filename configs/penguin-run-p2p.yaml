@@ -1,0 +1,16 @@
+pretrained_model_path: "./outputs/penguin-run"
+image_path: "./data/penguin_ice"
+prompt: "a penguin is running on the ice"
+prompts:
+  - "a penguin is running on the ice"
+  - "a crochet penguin is running on the ice"
+blend_word:
+  - 'penguin'
+  - 'penguin'
+eq_params:
+  words:
+    - "crochet"
+  values:
+    - 4
+save_name: "crochet"
+is_word_swap: False

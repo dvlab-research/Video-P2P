@@ -1,0 +1,16 @@
+pretrained_model_path: "./outputs/tiger-forest"
+image_path: "./data/tiger"
+prompt: "a tiger is walking in the forest"
+prompts:
+  - "a tiger is walking in the forest"
+  - "a Lego tiger is walking in the forest"
+blend_word:
+  - 'tiger'
+  - 'tiger'
+eq_params:
+  words:
+    - "Lego"
+  values:
+    - 2
+save_name: "lego"
+is_word_swap: False

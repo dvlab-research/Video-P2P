@@ -1,0 +1,17 @@
+pretrained_model_path: "./outputs/bird-forest"
+image_path: "./data/bird_forest"
+prompt: "a bird flying in the forest"
+prompts:
+  - "a bird flying in the forest"
+  - "children drawing of a bird flying in the forest"
+eq_params:
+  words:
+    - "children"
+    - "drawing"
+  values:
+    - 5
+    - 2
+save_name: "children"
+is_word_swap: False
+cross_replace_steps: 0.8
+self_replace_steps: 0.7

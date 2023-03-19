@@ -1,0 +1,16 @@
+pretrained_model_path: "./outputs/car-drive"
+image_path: "./data/car"
+prompt: "a car is driving on the road"
+prompts:
+  - "a car is driving on the road"
+  - "a car is driving on the railway"
+blend_word:
+  - 'road'
+  - 'railway'
+eq_params:
+  words:
+    - "railway"
+  values:
+    - 2
+save_name: "railway"
+is_word_swap: True

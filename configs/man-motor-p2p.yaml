@@ -1,0 +1,16 @@
+pretrained_model_path: "./outputs/man-motor"
+image_path: "./data/motorbike"
+prompt: "a man is driving a motorbike in the forest"
+prompts:
+  - "a man is driving a motorbike in the forest"
+  - "a Spider-Man is driving a motorbike in the forest"
+blend_word:
+  - 'man'
+  - 'Spider-Man'
+eq_params:
+  words:
+    - "Spider-Man"
+  values:
+    - 4
+save_name: "spider"
+is_word_swap: True

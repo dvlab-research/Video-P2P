@@ -1,0 +1,16 @@
+pretrained_model_path: "./outputs/rabbit-jump"
+image_path: "./data/rabbit"
+prompt: "a rabbit is jumping on the grass"
+prompts:
+  - "a rabbit is jumping on the grass"
+  - "a origami rabbit is jumping on the grass"
+blend_word:
+  - 'rabbit'
+  - 'rabbit'
+eq_params:
+  words:
+    - "origami"
+  values:
+    - 2
+save_name: "origami"
+is_word_swap: False
