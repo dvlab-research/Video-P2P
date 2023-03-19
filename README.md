@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 The code was tested on both Tesla V100 32GB and RTX3090 24GB.
 
-The environment is similar to [Tune-A-video](https://github.com/showlab/Tune-A-Video) and [prompt-to-prompt](https://github.com/google/prompt-to-prompt/).
+The environment is similar to [Tune-A-Video](https://github.com/showlab/Tune-A-Video) and [prompt-to-prompt](https://github.com/google/prompt-to-prompt/).
 
 [xformers](https://github.com/facebookresearch/xformers) on 3090 may meet this [issue](https://github.com/bryandlee/Tune-A-Video/issues/4).
 
