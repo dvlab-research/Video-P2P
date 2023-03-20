@@ -21,6 +21,7 @@ The official implementation of [Video-P2P](https://video-p2p.github.io/).
 - [x] Update a faster version.
 - [x] Release data.
 - [x] Release the Gradio Demo.
+- [ ] Add local Gradio Demo.
 - [ ] Release more configs and new applications.
 
 ## Setup
