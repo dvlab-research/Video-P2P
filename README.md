@@ -5,11 +5,13 @@ The official implementation of [Video-P2P](https://video-p2p.github.io/).
 
 [![Project Website](https://img.shields.io/badge/Project-Website-orange)](https://video-p2p.github.io/)
 [![arXiv](https://img.shields.io/badge/arXiv-2303.04761-b31b1b.svg)](https://arxiv.org/abs/2303.04761)
+[![Hugging Face Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/video-p2p-library/Video-P2P-Demo)
 
 ![Teaser](./docs/teaser.png)
 
 ## Changelog
 
+- 2023.03.20 Release Demo.
 - 2023.03.19 Release Code.
 - 2023.03.09 Paper preprint on arxiv.
 
@@ -18,7 +20,7 @@ The official implementation of [Video-P2P](https://video-p2p.github.io/).
 - [x] Release the code with 6 examples.
 - [x] Update a faster version.
 - [x] Release data.
-- [ ] Release the Gradio Demo.
+- [x] Release the Gradio Demo.
 - [ ] Release more configs and new applications.
 
 ## Setup
