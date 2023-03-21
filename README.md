@@ -30,7 +30,7 @@ The official implementation of [Video-P2P](https://video-p2p.github.io/).
 pip install -r requirements.txt
 ```
 
-The code was tested on both Tesla V100 32GB and RTX3090 24GB.
+The code was tested on both Tesla V100 32GB and RTX3090 24GB. At least 20GB VRAM is required.
 
 The environment is similar to [Tune-A-Video](https://github.com/showlab/Tune-A-Video) and [prompt-to-prompt](https://github.com/google/prompt-to-prompt/).
 
