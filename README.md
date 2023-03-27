@@ -102,7 +102,7 @@ Running the following command to launch the local demo built with [gradio](https
 ``` bash
 python app_gradio.py
 ```
-Find the demo on HuggingFace [here](https://huggingface.co/spaces/video-p2p-library/Video-P2P-Demo).
+Find the demo on HuggingFace [here](https://huggingface.co/spaces/video-p2p-library/Video-P2P-Demo). The demo code borrows heavily from [Tune-A-Video](https://huggingface.co/spaces/Tune-A-Video-library/Tune-A-Video-Training-UI).
 
 ## Citation 
 ```
