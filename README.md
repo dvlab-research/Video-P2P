@@ -21,7 +21,7 @@ The official implementation of [Video-P2P](https://video-p2p.github.io/).
 - [x] Update a faster version.
 - [x] Release data.
 - [x] Release the Gradio Demo.
-- [ ] Add local Gradio Demo.
+- [x] Add local Gradio Demo.
 - [ ] Release more configs and new applications.
 
 ## Setup
@@ -96,6 +96,13 @@ Download them under **./data** and explore your creativity!
   <td><img src="https://video-p2p.github.io/assets/bird-child.gif"></td>
 </tr>
 </table>
+
+## Gradio demo
+Running the following command to launch the local demo built with [gradio](https://gradio.app/): 
+``` bash
+python app_gradio.py
+```
+Find the demo on HuggingFace [here](https://huggingface.co/spaces/video-p2p-library/Video-P2P-Demo).
 
 ## Citation 
 ```
