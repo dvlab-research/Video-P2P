@@ -1,4 +1,4 @@
-# Video-P2P: Video Editing with Cross-attention Control
+# [CVPR 2024] Video-P2P: Video Editing with Cross-attention Control
 The official implementation of [Video-P2P](https://video-p2p.github.io/).
 
 [Shaoteng Liu](https://www.shaotengliu.com/), [Yuechen Zhang](https://julianjuaner.github.io/), [Wenbo Li](https://fenglinglwb.github.io/), [Zhe Lin](https://sites.google.com/site/zhelin625/), [Jiaya Jia](https://jiaya.me/)
