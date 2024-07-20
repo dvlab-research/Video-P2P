@@ -27,6 +27,8 @@ The official implementation of [Video-P2P](https://video-p2p.github.io/).
 ## Setup
 
 ``` bash
+conda create --name vp2p python=3.9
+conda activate vp2p
 pip install -r requirements.txt
 ```
 
@@ -41,6 +43,8 @@ The environment is similar to [Tune-A-Video](https://github.com/showlab/Tune-A-V
 Please replace **pretrained_model_path** with the path to your stable-diffusion.
 
 To download the pre-trained model, please refer to [diffusers](https://github.com/huggingface/diffusers).
+
+Please download [sd1.5](https://huggingface.co/runwayml/stable-diffusion-v1-5) and fill the path at this [line](https://github.com/dvlab-research/Video-P2P/blob/c916cf4b10e7a105cc78688b41210a1543a8d9c9/configs/rabbit-jump-tune.yaml#L1C48-L1C69).
 
 
 ``` bash
