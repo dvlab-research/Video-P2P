@@ -1,4 +1,4 @@
-pretrained_model_path: "/data/stable-diffusion/stable-diffusion-v1-5"
+pretrained_model_path: "stable-diffusion/stable-diffusion-v1-5"
 output_dir: "./outputs/car-drive"
 
 train_data:
